@@ -1,4 +1,4 @@
-How To:
+How To Use:
 =====
 * Subclassing LHSmartCell
 * Override -initWithCellIdentifier method
